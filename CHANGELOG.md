@@ -2,12 +2,10 @@ Next Release
 -
 
 v1.2.0
-* ADD: three routes for day, year, and station.
-* ADD: Frontend documentation
-* ADD: Data sets
+* Chart data and visuals added
 
 v1.1.0
-* API Baseplate setup
+* Streamlit all setup and basic interface in place
 
 v1.0.0
 * Initial release
